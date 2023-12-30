@@ -8,13 +8,20 @@
         2023(https://github.com/haneefshaik1/Excel-Sales-Analytics/blob/main/Market%20Performance%20Vs%20Target.pdf)
 
 - **Purpose of sales analytics:(KPIs)** 
-    **1.** Compare the sales and orders using single chart.
+    **1.** Compare the sales and orders using a single chart.
+
     **2.** Which month got the highest sales and orders?
+
     **3.** Who purchased more - Men or Women?
+
     **4.** What are the different order statuses in 2022?
+
     **5.** List the top 10 states contributing to the sales.
+
     **6.** Relation between age and gender based on number of orders.
+
     **7.** Which Channel is contributing the maximum to the sales?
+
     **8.** Highest selling category?
 
 ## Annual Report :
