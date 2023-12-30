@@ -4,10 +4,11 @@
 
 - **Project objective:** 
 
-    **1.** The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 
-        2023(https://github.com/haneefshaik1/Excel-Sales-Analytics/blob/main/Market%20Performance%20Vs%20Target.pdf)
+  The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 
+        2023[(https://github.com/haneefshaik1/Excel-Sales-Analytics/blob/main/Market%20Performance%20Vs%20Target.pdf)](https://github.com/haneefshaik1/Vrinda-store-Annual-Report/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx)
 
 - **Purpose of sales analytics:(KPIs)** 
+
     **1.** Compare the sales and orders using a single chart.
 
     **2.** Which month got the highest sales and orders?
